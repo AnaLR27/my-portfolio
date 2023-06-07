@@ -755,6 +755,7 @@ a.contact__subtitle:hover {
     margin-left: auto;
     margin-right: auto;
   }
+
   body {
     margin: 0;
   }
@@ -828,7 +829,12 @@ a.contact__subtitle:hover {
   .portfolio__img {
     width: 100%;
   }
+  #portfolio > .container {
+    max-width: 1200px;
+  }
+
   .portfolio__content {
+    width: 1200px !important;
     align-items: center;
     column-gap: 5rem;
   }
