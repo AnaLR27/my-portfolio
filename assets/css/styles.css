@@ -829,8 +829,16 @@ a.contact__subtitle:hover {
   .portfolio__img {
     width: 100%;
   }
+  .links-flex {
+    justify-content: flex-start;
+    gap: 1rem;
+  }
   #portfolio > .container {
     max-width: 1200px;
+  }
+
+  .video__subtitle {
+    margin-bottom: 2rem;
   }
 
   .portfolio__content {
