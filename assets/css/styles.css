@@ -841,6 +841,11 @@ a.contact__subtitle:hover {
     margin-bottom: 2rem;
   }
 
+  .video {
+    width: 100%;
+    height: auto;
+  }
+
   .portfolio__content {
     width: 1200px !important;
     align-items: center;
